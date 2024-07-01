@@ -2,12 +2,12 @@
 
 Short description of my POc project:
 
-I have developed a proof-of-concept (PoC) project using Angular version 18, centered on product management. This project incorporates various advanced features and methodologies, focusing solely on functionality and the effective use of Angular, without emphasizing styling (CSS). Key elements of the project include:
+I have developed a PoC project using Angular version 18, centered on product management. This project incorporates various features and methodologies, focusing solely on functionality and the effective use of Angular, without emphasizing styling (CSS). Key elements of the project include:
 
 ### Use of Components: 
     Modular approach through the creation and use of reusable components.
 ### New Control Flow: 
-    Implementation of Angular's new control flow constructs such as @if, @else, and @for.
+    Implement Angular's new control flow constructs such as @if, @else, and @for.
 ### Event Handling: 
     Effective handling of user interactions and events.
 ### Data Emitting: 
