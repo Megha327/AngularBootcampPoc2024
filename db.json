@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Women Cotton blend kurti pant dupatta set adasdasdasda",
+      "brand": "Here&Now",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/t/y/c/m-embro001-tibra-attire-original-imagw5g5q53xgfuh.jpeg?q=70",
+      "currentPrice": "300",
+      "standardPrice": "600",
+      "discount": "50"
+    },
+    {
+      "id": "2",
+      "brand": "Here&Now",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/s/r/n/xxl-tr-bandhani-trahimam-original-imahyjjhwwtmungw.jpeg?q=70",
+      "currentPrice": "200",
+      "standardPrice": "400",
+      "discount": "50",
+      "name": "Women Cotton rayon kurti pant dupatta set"
+    },
+    {
+      "id": "3",
+      "brand": "Here&Now",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/fabric/l/p/q/yes-2-m-unstitched-2-5-m-fk-ys-og-suki-grey-yashika-original-imagxn9hacgyyrfu.jpeg?q=70",
+      "currentPrice": "150",
+      "standardPrice": "300",
+      "discount": "50",
+      "name": "Women Unstiched salwar suit"
+    },
+    {
+      "id": "4",
+      "name": "Women viscos rayon kurta set",
+      "brand": "Here&Now",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/5/z/1/m-bela-suit-klosia-original-imagqjk6ahbsmzkw.jpeg?q=70",
+      "currentPrice": "465",
+      "standardPrice": "800",
+      "discount": "50"
+    },
+    {
+      "id": "7378",
+      "name": "Printed Daily Wear Cotton Linen Saree testing sareee",
+      "brand": "Keshri nandan",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sari/0/e/5/free-f13-keshrinandan-unstitched-original-imahyxfmhdvyhpgm.jpeg?q=70",
+      "currentPrice": "664",
+      "standardPrice": "2500",
+      "discount": "75"
+    }
+  ]
+}
