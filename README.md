@@ -1,5 +1,30 @@
 # AngularProject
 
+Short decription of my POc project:
+
+I have developed a proof-of-concept (PoC) project using Angular version 18, centered on product management. This project incorporates various advanced features and methodologies, including:
+
+### Use of Components: 
+    Modular approach through the creation and use of reusable components.
+### New Control Flow: 
+    Implementation of Angular's new control flow constructs such as @if, @else, and @for.
+### Event Handling: 
+    Effective handling of user interactions and events.
+### Data Emitting: 
+    Utilization of @Input and @Output decorators for parent-child component communication.
+### Routing: 
+    Efficient navigation and routing between different views.
+### Two-way Data Binding: 
+    Seamless synchronization between the model and the view.
+### Forms: 
+    Implementation of both template-driven and reactive forms for robust form handling.
+### Service Injection: 
+    Dependency injection for service management.
+### Pipes: 
+    Usage of pipes for data transformation and display.
+
+This project demonstrates a comprehensive application of Angular's capabilities, emphasizing the use of directives, decorators, and advanced form techniques to manage product-related functionalities efficiently.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.6.
 
 ## Development server
