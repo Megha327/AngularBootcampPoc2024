@@ -1,8 +1,8 @@
 # AngularProject
 
-Short decription of my POc project:
+Short description of my POc project:
 
-I have developed a proof-of-concept (PoC) project using Angular version 18, centered on product management. This project incorporates various advanced features and methodologies, including:
+I have developed a proof-of-concept (PoC) project using Angular version 18, centered on product management. This project incorporates various advanced features and methodologies, focusing solely on functionality and the effective use of Angular, without emphasizing styling (CSS). Key elements of the project include:
 
 ### Use of Components: 
     Modular approach through the creation and use of reusable components.
